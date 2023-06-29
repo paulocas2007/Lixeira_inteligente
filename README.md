@@ -4,7 +4,7 @@ O objetivo do projeto é atender a uma questão ambiental de ordem prática (col
 
 Foram utilizados os seguintes materiais:
 1) Placa Arduíno Uno
-2) Servomotor 90g
-3) Sensor ultrassônico SR-04
+2) Servomotor 9g SG90
+3) Sensor ultrassônico HC-SR04
 4) Módulo MP3 Player
 5) Lixeira plástica basculante
